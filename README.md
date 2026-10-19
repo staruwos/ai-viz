@@ -6,7 +6,7 @@ A 3D pathfinding playground and AI visualization tool for games, built with Thre
 
 AI-Viz provides an interactive environment to visualize and compare pathfinding algorithms and simple game-AI behaviors. It parses a 3D grid where users can edit obstacles, define start/end nodes, and observe the search frontier and path reconstruction in real-time.
 
-Live Demo: https://julionico.online/systems/ai-viz/index.html
+[Live Demo](https://julionico.online/systems/ai-viz/index.html)
 
 ## Features
 
